@@ -4,7 +4,7 @@ We love gifs!
 
 # License
 
-MIT
+BSD
 
 # Appendix
 
