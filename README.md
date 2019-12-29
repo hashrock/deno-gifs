@@ -19,6 +19,10 @@ We love gifs!
 
 Deno with [Nabemono](https://en.wikipedia.org/wiki/Nabemono)
 
+![tapioka](deno-tapi.gif)
+
+Deno with [Bubble tea](https://en.wikipedia.org/wiki/Bubble_tea)
+
 ![denomon](denomon.jpg)
 
 ![deno-firework](deno-firework.gif)
