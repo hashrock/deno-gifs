@@ -13,6 +13,14 @@ We love gifs!
 
 # gifs
 
+![deno-xmas](deno-xmas.gif)
+
+![deno-nabe](deno-nabe.gif)
+
+Deno with [Nabemono](https://en.wikipedia.org/wiki/Nabemono)
+
+![denomon](denomon.jpg)
+
 ![deno-firework](deno-firework.gif)
 
 Deno is enjoying [Senko hanabi](https://en.wikipedia.org/wiki/Senko_hanabi)
